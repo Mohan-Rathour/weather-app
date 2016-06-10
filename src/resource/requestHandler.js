@@ -1,0 +1,1 @@
+exports.getWeatherReport = require("./environment");
